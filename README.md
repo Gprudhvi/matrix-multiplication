@@ -5,4 +5,4 @@ It has following algorithms
 2.using single thread for single element
 3.Summa
 4.Omp
-5.work Stealing 
+5.work Stealing .
